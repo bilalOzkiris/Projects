@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589559671 source:c:\users\bilal Özkýrýþ\desktop\cs\cs 4. term\programming languages\projects\project-1\project-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
