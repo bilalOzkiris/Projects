@@ -1,0 +1,6 @@
+C:\Users\Bilal Özkırış\source\repos\Project2\bin\Debug\Project2.exe.config
+C:\Users\Bilal Özkırış\source\repos\Project2\bin\Debug\Project2.exe
+C:\Users\Bilal Özkırış\source\repos\Project2\bin\Debug\Project2.pdb
+C:\Users\Bilal Özkırış\source\repos\Project2\obj\Debug\Project2B.1a.csprojAssemblyReference.cache
+C:\Users\Bilal Özkırış\source\repos\Project2\obj\Debug\Project2.exe
+C:\Users\Bilal Özkırış\source\repos\Project2\obj\Debug\Project2.pdb
